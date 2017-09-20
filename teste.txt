@@ -1,0 +1,942 @@
+
+GET / HTTP/1.1
+Host: 200.242.41.135
+Connection: close
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.1.9) Gecko/20100401 Ubuntu/9.10 (karmic) Firefox/3.5.9 
+Referer: http://ufam.kicks-ass.org/
+Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+[HTTP GET SENT]HTTP/1.0 200 OK
+Date: Fri, 09 Nov 2012 20:59:59 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.3-7
+X-Pingback: http://www.manaus.am.gov.br/xmlrpc.php
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from ufam.edu.br
+X-Cache-Lookup: MISS from ufam.edu.br:3128
+Via: 1.0 ufam.edu.br (squid)
+Connection: close
+
+﻿ 
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="pt-BR">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="pt-BR">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="pt-BR">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="pt-BR">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Prefeitura de Manaus</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/style.css" />
+<link rel="pingback" href="http://www.manaus.am.gov.br/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Feed de Prefeitura de Manaus &raquo;" href="http://www.manaus.am.gov.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Prefeitura de Manaus &raquo;  Feed de comentários" href="http://www.manaus.am.gov.br/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/contact-form-7/styles.css?ver=3.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-email-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/wp-email/email-css.css?ver=2.50' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.1.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='NextGEN-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='shutter-css'  href='http://www.manaus.am.gov.br/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-includes/js/jquery/jquery.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/jquery-vertical-mega-menu/js/jquery.hoverIntent.minified.js?ver=3.3.1'></script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/jquery-vertical-mega-menu/js/jquery.dcverticalmegamenu.1.3.js?ver=3.3.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var shutterSettings = {"msgLoading":"C A R R E G A N D O","msgClose":"Clique para fechar","imageCount":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.manaus.am.gov.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.manaus.am.gov.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"yes",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righitle="RSD" href="http://www.manaus.am.gov.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.manaus.am.gov.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"yes",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"ticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"})//www.manaus.am.gov.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.manaus.am.gov.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.3.1" />
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/audio-player.js?ver=2.0.4.1"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.manaus.am.gov.br/wp-content/plugins/audio-player (2)/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"yes",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:";</script>
+
+	<link rel="stylesheet" type="text/css" href="http://www.manaus.am.gov.br/wp-content/plugins/jquery-vertical-mega-menu/css/dcverticalmegamenu.css" media="screen" /><script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/microaudio/jquery-1.3.js.php?ver=1.3'></script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/microaudio/microAudio.js.php?siteurl=www.manaus.am.gov.br&amp;autostart=no&amp;autoconfig=false&amp;download=true'></script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/plugins/microaudio/microAudio.widget.js.php?siteurl=www.manaus.am.gov.br'></script>
+    
+    <script type="text/javascript">function getTubePressBaseUrl(){return "http://www.manaus.am.gov.br/wp-content/plugins/tubepress";}</script>
+    <script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/plugins/tubepress/ui/lib/tubepress.js"></script>
+    <link rel="stylesheet" href="http://www.manaus.am.gov.br/wp-content/plugins/tubepress/ui/gallery/css/tubepress.css" type="text/css" /><link id='MediaRSS' rel='alternate' type='application/rss+xml' title='NextGEN Gallery RSS Feed' href='http://www.manaus.am.gov.br/wp-content/plugins/nextgen-gallery/xml/media-rss.php' />
+
+<!-- NextGeEN Gallery CoolIris/PicLens support -->
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/themes/portalprefeitura2010/js/piclens_optimized.js"></script>
+<!-- /NextGEN Gallery CoolIris/PicLens support -->
+<meta name='NextGEN' content='1.5.5' />
+
+	<link rel="stylesheet" href="http://www.manaus.am.gov.br/wp-content/plugins/jquery-vertical-mega-menu/skin.php?widget_id=2&amp;skin=grey" type="text/css" media="screen"  />
+<script>  var template_url="http://www.manaus.am.gov.br/wp-content/themes/pmm2012"; </script>
+
+
+<link rel="stylesheet" type="text/css" href="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/css/style-slide.css" />
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/jquery-ui.min.js" ></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+     jQuery("#featured > ul").tabs({fx:{opacity: "toggle"}}).tabs("rotate", 5000, true);
+});
+</script>
+
+<script>
+
+var fontsize = 15;
+
+    function font_up()
+
+    {
+
+	if(fontsize != 17)
+
+	{
+
+	    fontsize++;
+
+	    jQuery('body').css('font-size', fontsize+'px');
+
+	    jQuery('.fonteTextoInstitucional').css('font-size', fontsize+'px');
+
+	}
+
+    }
+
+    
+
+    function font_down()
+
+    {
+
+        if(fontsize != 13)
+
+        {
+
+            fontsize--;
+
+            jQuery('body').css('font-size', fontsize+'px');
+
+	    jQuery('.fonteTextoInstitucional').css('font-size', fontsize+'px    ');
+
+        }
+
+    }
+
+
+
+    function font_fix()
+
+    {
+
+        if(fontsize != 15)
+
+        {
+
+	   fontsize = 15;
+
+           if(fontsize < 15)
+
+	   {
+
+		jQuery('body').css('font-size', fontsize+'px');
+
+	        jQuery('.fonteTextoInstitucional').css('font-size', fontsize+'px    ');
+
+           }
+
+           else
+
+           {
+
+		jQuery('body').css('font-size', fontsize+'px');
+
+                jQuery('.fonteTextoInstitucional').css('font-size', fontsize+'px    ');
+
+           }
+
+        }
+
+    }
+
+
+
+    function show_acessibility_options()
+
+    {
+
+        if(!document.getElementById('div_acessibility_options'))
+
+        {
+
+            var div = document.createElement('div'); 
+
+            div.id = 'div_acessibility_options';
+
+            div.style.position = 'absolute';
+
+            div.style.zIndex = '9999';
+
+            div.style.top = '106px';
+
+            div.style.left = ((document.body.offsetWidth)-790)+'px';
+
+            div.style.color = '#B3B3B3';
+
+            div.style.fontSize = '11px';
+
+            div.style.padding = '14px';
+
+            div.style.textAlign = 'center';
+
+            div.style.width = '100px';
+
+            div.style.height = '95px';
+
+            div.style.border = '3px solid #B3B3B3';
+
+            di      }
+
+    }
+
+
+
+    function show_acessibility_options()
+
+    {
+
+        if(!document.getElementById('div_acessibility_options'))
+
+        {
+
+            var div = document.createElement('div'); 
+
+            div.id = 'div_acessibility_options';
+
+            div.style.position = 'absolute';
+
+            div.style.zIndex = '9999';
+
+            div.style.top = '106px';
+
+            div.style.left = ((document.body.offsetWidth)-790)+'px';
+
+            div.style.color = '#B3B3B3';
+
+            div.style.fontSize = '11px';
+
+            div.style.padding = '14px';
+
+            div.style.textAlign = 'center';
+
+            div.style.width = '100px';
+
+            divv.style.backgroundColor = '#E6E6E6';
+
+            div.style.display = 'block';
+
+            div.innerHTML = 'Tamanho da Fonte<br />';
+
+            div.innerHTML+= '<a href="#" onclick="font_up()" style="padding-right:3px;"><img src="'+template_url+'/images/A+.png" /></a>';
+
+            div.innerHTML+= '<a href="#" onclick="font_fix()" style="padding-right:3px;"><img src="'+template_url+'/images/A.png" /></a>';
+
+            div.innerHTML+= '<a href="#" onclick="font_down()"><img src="'+template_url+'/images/A-.png" /><br /></a>';
+
+            div.innerHTML+= 'Contraste<br />';
+
+            div.innerHTML+= '<a href="#" onclick="jQuery(\'#direita\').attr(\'src\',\''+template_url+'/images/coluna_direita_c.png\');jQuery(\'*\').css(\'background-color\', \'#000\');jQuery(\'*\').css(\'color\', \'#FFF\');jQuery(\'#secondary\').css(    \'background-color\', \'\');" style="padding-right:3px;"><img src="'+template_url+'/images/iconContrasteOn.jpg" /></a>';
+
+            div.innerHTML+= '<a href="#" onclick="jQuery(\'#direita\').attr(\'src\',\''+template_url+'/images/coluna_direita.png\');jQuery(\'*\').css(\'background-color\', \'\');jQuery(\'*\').css(\'color\', \'\');jQuery(\'#div_acessibility_options\').css(\'background-color\', \'#E6E6E6\');"><img src="'+template_url+'/images/iconContrasteOff.jpg" /></a>';
+
+            div.innerHTML+= '<img src="'+template_url+'/images/seta.png" style="position: absolute; margin: 50px 0 0 15px;" />';
+
+            document.body.appendChild(div);
+
+        }
+
+        else
+
+        {
+
+            if(document.getElementById('div_acessibility_options').style.display == 'block'){
+
+               document.getElementById('div_acessibility_options').style.display = 'none'; 
+
+            }
+
+            else {
+
+               document.getElementById('div_acessibility_options').style.display = 'block';  
+
+            }
+
+        }
+
+    }
+
+    
+
+</script>
+
+<!-- SLIDE -->
+
+<link rel="stylesheet" href="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/css/coda-slider-2.0.css" type="text/css" media="screen" />
+
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/jquery.slideviewer.1.1.js'></script>
+<script type='text/javascript' src='http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/jquery.easing.1.3.js'></script>
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/jquery.coda-slider-2.0.js"></script>
+        
+<script type="text/javascript">
+   $().ready(function() {
+        $('#coda-slider-1').codaSlider();
+   });
+</script>
+<!-- END SLIDE -->
+
+<!-- INICIO GOOGLE ANALYTICS -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19929608-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- FIM GOOGLE ANALYTICS -->
+        
+</head>
+
+<body class="home blog single-author two-column right-sidebar">
+
+    
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+            
+               <div id="topo"><!-- inicio do topo !-->
+
+                        <div id="barra">
+                             <div id="barraRed" style="border: 5px solid #db0a32;height: 156px;width: 971px;">
+                                <div id="barraYellow" style="border: 6px solid #F9C523; height: 144px;overflow: hidden;width: 959px;">
+                                    <div id="logo">
+                                        <img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/logo.jpg" alt="Página Inicial" />
+                                    </div>
+                                    <link rel="stylesheet" type="text/css" href="http://www.manaus.am.gov.br/wp-content   
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+            
+               <div id="topo"><!-- inicio do topo !-->
+
+                        <div id="barra">
+                             <div id="barraRed" style="border: 5px solid #db0a32;height: 156px;width: 971px;">
+                                <div id="barraYellow" style="border: 6px solid #F9C523; height: 144px;overflow: hidden;width: 959px;">
+                                    <div id="logo">
+                                        <img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/logo.jpg" alt="Página Inicial" />
+                                    </div>
+                       /themes/pmm2012/css/basic-jquery-slider.css" media="screen" />
+<script type="text/javascript" src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/js/basic-jquery-slider.min.js"></script>
+
+<div id="conhecaManaus">
+        <div style="z-index: 20; position: absolute; height: 144px;"><a href="http://www.manaus.d="barraRed" style="border: 5px solid #db0a32;height: 156px;width: 971px;">
+                                <div id="barraYellow" style="border: 6px solid #F9C523; height: 144px;overflow: hidden;width: 959px;">
+                                    <div id="logo">
+                                        <img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/logo.jpg" alt="Página Inicial" />
+                                    </div>
+                       am.gov.br/conhecamanaus"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/conheca.png" alt="d" style="text-decoration:none; border:0;" /></a></div>
+
+        <div id="slideshow">
+            <ul class="bjqs">
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/1.jpg" alt=""/></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/2.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/3.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/4.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/5.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/6.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/7.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/8.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/9.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/10.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/11.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/12.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/13.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/14.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/15.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/16.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/17.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/18.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/19.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/20.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/21.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/22.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/23.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/24.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/25.jpg" alt="" /></li>
+            <li><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/i/26.jpg" alt="" /></li>
+            </ul>
+        </div>
+
+  </div>
+
+<script>
+jQuery("#slideshow").bjqs({
+    'height' : 145,
+    'width' : 608,
+    'animationDuration' : 1200,
+    'showMarkers' : false,
+    'centerControls' :true,
+    'showControls' : false,
+    'nextText': '',
+    'prevText': '',
+    'useCaptions' : false,
+    'keyboardNav' : false
+});
+</script>                                </div>
+                            </div>
+                        </div>
+
+                        <div id="barraMenu">
+
+                                <div id="menuPortal">
+
+                                    <ul>
+                                    <li style="align:center"><a href="http://www.manaus.am.gov.br" class="principal">Início</a></li>
+                                    <li><a href="http://dom.manaus.am.gov.br/"  >Di&aacute;rio Oficial</a></li>
+                                    <li><a href="servidor" class="se 'animationDuration' : 1200,
+    'showMarkers' : false,
+    'centerControls' :true,
+    'showControls' : false,
+    'nextText': '',
+    'prevText': '',
+    'useCaptions' : false,
+    'keyboardNav' : false
+});
+</script>                                </div>
+                            </div>
+                        </div>
+
+                        <div id="barraMenu">
+
+                                <div id="menuPortal">
+
+                                    <ul>
+                                    <li style="align:center"><a href="http://www.manaus.am.gov.br" class="principal">Início</a></li>
+                                    <li><a href="http://dom.manaus.am.gov.br/"  >Di&arvidor" >Servidor</a></li>
+                                    </ul>
+
+                                </div>
+
+                                <div id="dataTemperatura">
+
+                                    <div id="data">Manaus, 09 de Novembro de 2012</div>
+
+                                </div>
+
+                        </div>
+
+
+                <div id="barraNavegacao">
+
+                     <div id="migalhas">
+                         >> Você está aqui:
+                        <span class="breadcrumb">
+                            <!-- Breadcrumb NavXT 3.4.1 -->
+Início                        </span>
+                    </div>
+                    
+                     <div style="font-family: Arial; font-size: 11px; height: 17px; background-color: rgb(179, 179, 179); color: rgb(255, 255, 255); float: right; margin-top: 2px; padding: 3px; position: absolute; right: 2px; width: 188px;">
+                        <div style="width:230px;margin-left:25px;">
+                            <a href="#" onclick="show_acessibility_options()" style="font-family:Arial;color:#ffffff;text-decoration:none;">Acessibilidade</a>&nbsp;&nbsp;<img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/linhaVertical.jpg" />&nbsp;
+                           <a href="#" style="font-family:Arial;color:#ffffff;text-decoration:none;">Mapa do Site</a>
+                        </div>
+                    </div>
+                      
+            </div>
+
+      </div><!-- fim do topo !-->
+			
+ </header><!-- #branding -->
+
+
+	<div id="main">
+            
+            
+            
+
+		<div id="primary">
+                 
+                    
+<div id="colunaEsquerda">
+                
+                <div id="busca">
+                    <form method="get" id="searchform" action="http://www.manaus.am.gov.br/">
+
+                        <div style="height:21px; width:195px;">
+                            <input type="text" value="" name="s" id="searchbox" class="p-chave" onfocus="this.value=''"  size="18"/>
+                        </div>
+
+                        <div style="height: 22px; float: right; width: auto; margin: -37px 0px 0 0;">
+                            <input type="image" src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/images/btBusca.png" height="37" width="35" onClick="submit();"/>
+                        </div>
+
+                    </form>				
+                </div> 
+    
+                <div id="navegueAqui">
+                   
+                    <div id="barraAzulNavegueAqui"></div>
+                 
+                    		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="dc_jqverticalmegamenu_widget-2" class="widget ">		<div class="dcjq-vertical-mega-menu" id="dc_jqverticalmegamenu_widget-2-item">
+		
+		<ul id="menu-menu_vertical" class="menu"><li id="menu-item-1000005874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000005874"><a href="http://www.manaus.am.gov.br/prefeitura">Sobre a Prefeitura</a></li>
+<li id="menu-item-1000005883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000005883"><a href="http://www.manaus.am.gov.br/agencia-de-noticias/">Notícias</a></li>
+<li id="menu-item-1000005884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000005884"><a href="http://www.manaus.am.gov.br/estrutura/">Estrutura</a></li>
+<li id="menu-item-1000005903" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000005903"><a href="http://www.manaus.am.gov.br/legislacao/">Legislação</a></li>
+<li id="menu-item-1000005881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000005881"><a href="#">Multimídia</a>
+<ul class="sub-menu">
+	<li id="menu-item-1000005905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000005905"><a href="http://www.manaus.am.gov.br/audios/">Áudios</a></li>
+	<li id="menu-item-1000005904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000005904"><a href="http://www.manaus.am.gov.br/videos/">Vídeos</a></li>
+</ul>
+</li>
+</ul>		
+		</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+                </div>
+                
+
+		<div id="bannersColunaEsquerda">
+                        <div>
+<a href="http://www.manaus.am.gov.br/wp-content/plugins/adrotate/adrotate-out.php?trackerid=19"  target="_blank"><img src=http://www.manaus.am.gov.br/wp-content/banners/transparencia.png></a><a href="http://aocidadao.manaus.am.gov.br/"  target="_blank"><img src=http://www.manaus.am.gov.br/wp-content/banners/portal_aocidadao.png></a><a href="http://www.manaus.am.gov.br/wp-content/plugins/adrotate/adrotate-out.php?trackerid=18"  target="_blank"><img src=http://www.manaus.am.gov.br/wp-content/banners/iptu_alvara.png></a><a href="http://www.manaus.am.gov.br/wp-content/plugins/adrotate/adrotate-out.php?trackerid=23"  target="_blank"><img src=http://www.manaus.am.gov.br/wp-content/banners/bolsa_universidade.png></a><a href="http://estudantes.manaus.am.gov.br/"  target="_blank"><img src=http://www.manaus.am.gov.br/wp-content/banners/estudantil.png></a>
+
+</div>
+	        </div>
+    
+                <div id="telfonesUtilitarios">
+
+		   <div id="barraTelefones">&nbsp;</div>
+                   
+                        <div style="padding: 5px 0 5px 10px; line-height: 170%;">Passa Fácil: (92) 2123-0700<br />
+Infantojuvenil: 0800 092 1407<br />
+Meio Ambiente: 0800 092 2000<br />
+Defesa Civil: 199<br />
+ManausPrev: (92) 3186-8000<br />
+Manaustrans: 0800 092 1199<br />
+<a href="http://www.manaus.am.gov.br/telefones/">Mais telefones</a>
+</div>	        </div>
+</div>
+                    
+			<div id="content" role="main">
+                            <div id="barraNoticias">
+                            <div class="fontetitUltimasNoticias" id="tituloNoticias">Últimas notícias</div>
+                        </div>
+                            
+			<div id="conteudo">
+                            <div id="ultimas">
+                            <div id="featured">
+                                <ul class="ui-tabs-nav">
+                                    
+                                                                                                                
+                                    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-1">
+                                        <a href="#fragment-1" onclick="location.href='http://www.manaus.am.gov.br/entrega-dos-kits-da-corrida-cidade-de-manaus-comeca-na-segunda-feira-dia-12/'"><div class="olho">Corrida Cidade de Manaus</div><div class="titulo">Entrega dos kits começa na segunda-feira dia 12</div></a>
+                                    </li>
+
+                                    
+
+                                                                                                                
+                                    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-2">
+                                        <a href="#fragment-2" onclick="location.href='http://www.manaus.am.gov.br/cafe-teatro-recebe-os-ultimos-retoques-para-a-inauguracao/'"><div class="olho">Café Teatro</div><div class="titulo">Espaço recebe os últimos retoques para a inauguração</div></a>
+                                    </li>
+
+                                    
+                                                                                                                
+                                    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-3">
+                                        <a href="#fragment-3" onclick="location.href='http://www.manaus.am.gov.br/em-tres-anos-servico-sos-vida-registra-2507-mil-remocoes-de-pacientes/'"><div class="olho">SOS Vida</div><div class="titulo">Em três anos serviço registra 250,7 mil remoções de pacientes</div></a>
+                                    </li>
+
+                                        
+                                                                                             >
+                                    </li>
+
+                                    
+                                                                                                                
+                                    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-3">
+                                        <a href="#fragment-3" onclick="location.href='http://www.manaus.am.gov.br/em-tres-anos-servico-sos-vida-registra-2507-mil-remocoes-de-pacientes/'"><div class="olho">SOS Vida</div><div class="titulo">Em três anos serviço registra 250,7 mil remoções de pacientes                   
+                                    <li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-4">
+                                        <a href="#fragment-4" onclick="location.href='http://www.manaus.am.gov.br/prefeito-amazonino-mendes-define-equipe-de-transicao-da-prefeitura/'"><div class="olho">Sucessão</div><div class="titulo">Prefeito Amazonino Mendes define equipe de transição da Prefeitura</div></a>
+                                    </li>
+
+                                    
+
+                                </ul>
+
+                                <!-- First Content -->
+
+                                                                                                
+                                <div id="fragment-1" class="ui-tabs-panel" style="">
+                                    <a href="http://www.manaus.am.gov.br/entrega-dos-kits-da-corrida-cidade-de-manaus-comeca-na-segunda-feira-dia-12/"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/scripts/timthumb.php?src=http://www.manaus.am.gov.br/wp-content/files_flutter/1352492276ASL1495SITE.jpg&h=237&w=272&zc=1 alt='Entrega dos kits da Corrida Cidade de Manaus começa na segunda-feira dia 12'" style="text-decoration:none; border:0;" /></a>
+                                    <div class="info" >
+                                        <p>A corrida será realizada na orla da praia da Ponta Negra com percursos de 5 e de 10km</p>
+                                    </div>
+                                </div>
+
+                                
+                                                                                                    
+                                <div id="fragment-2" class="ui-tabs-panel" style="">
+                                    <a href="http://www.manaus.am.gov.br/cafe-teatro-recebe-os-ultimos-retoques-para-a-inauguracao/"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/scripts/timthumb.php?src=http://www.manaus.am.gov.br/wp-content/files_flutter/1352475523MJCAFeTEATRO2.jpg&h=237&w=272&zc=1 alt='Café Teatro recebe os últimos retoques para a                         <p>A corrida será realizada na orla da praia da Ponta Negra com percursos de 5 e de 10km</p>
+                                    </div>
+                                </div>
+
+                                
+          inauguração'" style="text-decoration:none; border:0;" /></a>
+                                    <div class="info" >
+                                        <p>O espaço multi-uso une a cultura ao bem-estar</p>
+                                    </div>
+                                </div>
+
+                                    
+                                                                                                    
+                                <a href=""></a>
+                                <div id="fragment-3" class="ui-tabs-panel" style="">
+                                    <a href="http://www.manaus.am.gov.br/em-tres-anos-servico-sos-vida-registra-2507-mil-remocoes-de-pacientes/"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/scripts/timthumb.php?src=http://www.manaus.am.gov.br/wp-content/files_flutter/1352407087SOSVIDAsite.jpg&h=237&w=272&zc=1 alt='Em três anos serviço SOS Vida registra 250,7 mil remoções de pacientes'"  style="text-decoration:none; border:0;" /></a>
+                                    <div class="info" >
+                                        <p>No ano passado, a frota de veículos foi ampliada para 10 ambulâncias e 8 vans</p>
+                                    </div>
+                                </div>
+
+                                    
+
+                                                                                                    
+                                <div id="fragment-4" class="ui-tabs-panel" style="">
+                                    <a href="http://www.manaus.am.gov.br/prefeito-amazonino-mendes-define-equipe-de-transicao-da-prefeitura/"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/scripts/timthumb.php?src=http://www.manaus.am.gov.br/wp-content/files_flutter/1352404970RBPREFEITURADEMANAUS00125.jpg&h=237&w=272&zc=1 alt='Prefeito Amazonino Mendes define equipe de transição da Prefeitura'" style="text-decoration:none; border:0;" /></a>
+                                    <div class="info" >
+                                        <p>O relatório será elaborado pela Comissão de Transmissão de Governo</p>
+                                    </div>
+                                </div>
+
+                                                                    
+
+                    </div>
+		    <div style="width:100%; text-align: right;"><a href="http://www.manaus.am.gov.br/agencia-de-noticias">&raquo; ver todas as notícias</a></div>
+                    <div style="clear: both;"></div>    
+                  
+                </div>
+                
+                        </div>
+              
+                  <div id="barraServicos">
+                    <div class="fontetitUltimasNoticias" id="tituloNoticias">Serviços</div>
+
+                  </div>
+<div id="noticias">	
+
+<table class="table_servicos">
+<tr>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/dam/alvara" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/alvara.png"/></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/dam/iptu" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/iptu.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/dam/mif" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/auto_infracao.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/cnd/solicitacao_cnd" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/cnd_municipal.png" /></a></td>
+</tr>
+<tr>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/src/dam/avulso/indexDamAvulso.php?dam=0" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/pagamento_avulso.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/dam/iss" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/iss.png" /></a></td>
+    <td><a href="http://semef.manaus.am.gov.br/blog/aviso-dam" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/orgpublicosestaduais.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/src/termoIndeferimento/consultarTermoIndeferimento.php" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/simples_indef.png" /></a></td>
+</tr>
+<tr>
+    <td><a href="http://afim2.manaus.am.gov.br/AfimPRD2011/Lisobpublico.do?consultasemef=true"><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/pagamento_realizados.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/src/dam/validar/validarDam.php" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/dam_itbi.png" /></a></td>
+    <td><a href="https://www.icadonline.com.br/index.cfm?pid=2524" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/icad.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/nfsa/solicita_nfsa" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/nfsa.png" /></a></td>
+</tr>
+<tr>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/processo/consulta_processos" ><img src="http://semef.manaus.am.gov.br/wp-content/themes/semef 2.0/images/consulta_processo.png" /></a></td>
+    <td><a href="http://afim.manaus.am.gov.br" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/afim.png" /></a></td>
+    <td><a href="http://sistemas.manaus.am.gov.br/avisoSEMEF" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/nfs-e.png" /></a></td>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/src/dms/consulta_dms.php" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/dms.png" /></a></td>
+</tr>
+<tr>
+    <td><a href="http://servicossemef.manaus.am.gov.br/servicosSemef/Servicos2/index.php?nomeArquivo=servicos/consultacadastro/consulta_imovel" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/imoveis_consulta.png" /></a></td>
+    <td><a href="http://portal.gissonline.com.br" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/gissonline.png" /></a></td>
+    <td><a href="http://manaus.ginfes.com.br" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/nfs_padrao-sped.png" /></a></td>
+    <td><a href="http://semef.manaus.am.gov.br/documentos-e-formularios/" ><img src="http://semef.manaus.am.gov.br/wp-content/uploads/2012/06/documento_formularios.png" /></a></td>
+</tr>
+</table>
+</div>
+                            
+<div id="barraBancoImagens">
+<div class="fontetitUltimasNoticias" id="tituloNoticias">Banco de Imagens</div>
+</div>
+<div id="barraVideos">
+<div class="fontetitUltimasNoticias" id="tituloNoticias">Vídeos</div>
+</div>
+<div id="bancoImagens">
+    
+            <div id="boxSlide">
+        <div class="box-slide-noticia">
+                <a href="bancodeimagens/"><img src="http://www.manaus.am.gov.br/wp-content/themes/pmm2012/scripts/phpThumb/phpThumb.php?src=http://www.manaus.am.gov.br/wp-content/files_flutter/1276174458PRAÇADASAUDADE.16.JPG&h=125&w=281&zc=1&fltr[]=ric|0|0&f=jpg"   alt="" class="imgLink"/></a>
+        </div>
+    </div>
+            <div class="nomeImagem">PRAÇA DA SAUDADE        <div class="vejaMaisBancoImagem"><a href="bancodeimagens">Veja mais...</a></div>
+    </div>
+</div>
+<div id="videos">
+    
+    <div id="video">
+                                <script type="text/javascript">
+                                        function youtube_videos(data) {
+                                        var feed = data.feed;
+                                        var entries = feed.entry || [];
+                                        var html = [];
+                                        for (var i = 0; i < entries.length; i++) {      
+                                                var entry = entries[i];
+                                                var title = entry.title.$t;
+                                                var width = "281";
+                                  ancoImagem"><a href="bancodeimagens">Veja mais...</a></div>
+    </div>
+</div>
+<div id="videos">
+    
+    <div id="video">
+                                <script type="text/javascript">
+                                        function youtube_videos(data) {
+                                    var height = "151";
+                                                var showtitle = "No";
+                                                var titledisplay = '';
+                                                if(showtitle == "Yes") {
+                                                                titledisplay = '<h4>' + title + '</h4>';
+                                                        } else {
+                                                                titledisplay = '';
+                                                        }
+                                                var playerUrl = entries[i].media$group.media$content[0].url;
+                                                html.push( "<div class=\"youtube_videos\">", titledisplay ,"\n",
+                                                        "<object width='" , width , "' height='" , height ,
+                                                                        "'><param name='movie' value='" , playerUrl ,
+                                                                        "&hl=en&fx=1&'></param><param name='allowFullScreen' value='true'></param><param name='allowscriptaccess' value='always'></param><embed src='" , playerUrl ,
+                                                                        "&hl=en&fs=1&' type='application/x-shockwave-flash' allowscriptaccess='always' allowfullscreen='true' width='" , width ,
+                                                                        "' height='" , height , "'></embed></object></div><p></p>" );
+                                        }
+                                                document.getElementById('videosHome').innerHTML = html.join('');
+                                        } 
+                                </script>
+                                <div id="videosHome">
+                                </div>
+                                <script type="text/javascript" src="http://gdata.youtube.com/feeds/users/semcommanaus/uploads?alt=json-in-script&max-results=1&callback=youtube_videos">
+                                </script>
+                            </div>
+
+<div class="nomeImagem2">
+    <div class="vejaMaisBancoImagem"><a href="banco-de-imagens">Veja mais...</a></div>
+</div>
+</div>
+
+
+                            
+			</div><!-- #content -->
+                        
+                        <style>
+.legend{
+float:left;
+position: relative;
+top: -35px;
+left: 90px;
+font-size:14px;
+height: 0px;
+color: transparent;
+}
+</style>
+
+<div id="colunaDireita">
+
+  <div id="barraAzulServicos"></div>
+   
+  <div id="servicos" style="margin-left: -69px;margin-top: 5px;">
+      
+  <div id="barraAzulTwitter"></div>
+  <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+    new TWTR.Widget({
+      version: 2,
+      type: 'profile',
+      rpp: 2,
+      interval: 30000,
+      width: 188,
+      height: 212,
+      theme: {
+        shell: {
+          background: '#fff',
+          color: '#717F88'
+        },
+        tweets: {
+          background: '#fff',
+          color: '#75a4c9',
+          links: '#595c58'
+        }
+      },
+      features: {
+        scrollbar: false,
+        loop: false,
+        live: false,
+        behavior: 'all'
+      }
+    }).render().setUser('Cidade_Manaus').start();
+    </script>
+      <div id="boxFacebook">
+  <div id="barraAzulFacebook"></div>
+  <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-like-box" data-href="http://www.facebook.com/prefeiturademanaus" data-width="188" data-height="304" data-show-faces="true" data-stream="false" data-header="false"></div>  
+     </div> 
+      
+  </div>
+
+  <div id="banners" st
+        live: false,
+        behavior: 'all'
+      }
+    }).render().setUser('Cidade_Manaus').start();
+    </script>
+      <div id="boxFacebook">
+  <div id="barraAzulFacebook"></div>
+  <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-like-box" data-href="http://www.facebook.com/prefeiturademanaus" data-width="188" data-height="304" data-show-faces="true" data-streayle="position: relative; top: -35px;">
+   
+        <div id="slideshow2">
+            <ul class="bjqs">
+            <li>
+                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/2edCartilhaLeideAcesso.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web_banner-cartilha-lei-de-acesso-178x75.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/FichadeInscricaoEstacionamentoManaustrans.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/web_banner-estacionamento-especial-178x75.jpg" width="178" border="0"></a>                <br /><a href="http://bolsauniversidade.manaus.am.gov.br/recadastramento-2012/" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/BolsaUniversidadeRecadastramento2012.jpg" width="178" border="0"></a>            </li>
+            <li>
+                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/FichadeInscricaoEstacionamentoManaustrans.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/web_banner-estacionamento-especial-178x75.jpg" width="178" border="0"></a>                <br /><a href="http://bolsauniversidade.manaus.am.gov.br/recadastramento-2012/" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/BolsaUniversidadeRecadastramento2012.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/Aviso_Edital7ConvocacaoProjovem.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-PROJOVEM.jpg" width="178" border="0"></a>            </li>
+            <li>
+                <br /><a href="http://bolsauniversidade.manaus.am.gov.br/recadastramento-2012/" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/BolsaUniversidadeRecadastramento2012.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/Aviso_Edital7ConvocacaoProjovem.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-PROJOVEM.jpg" width="178" border="0"></a>                <br /><a href="http://www.manaus.am.gov.br/nova-sede-do-banco-da-gente/"  target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/Bancoda%20GenteNovaSede.jpg" width="178" border="0"></a>            </li>
+            <li>
+                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/Aviso_Edital7ConvocacaoProjovem.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-PROJOVEM.jpg" width="178" border="0"></a>                <br /><a href="http://www.manaus.am.gov.br/nova-sede-do-banco-da-gente/"  target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/Bancoda%20GenteNovaSede.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/EditalPPPErrata.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-EDITAL-SEMULSP-PPP.jpg" width="178" border="0"></a>            </li>
+            <li>
+                <br /><a href="http://www.manaus.am.gov.br/nova-sede-do-banco-da-gente/"  target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/Bancoda%20GenteNovaSede.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/EditalPPPErrata.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-EDITAL-SEMULSP-PPP.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/2edCartilhaLeideAcesso.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web_banner-cartilha-lei-de-acesso-178x75.jpg" width="178" border="0"></a>            </li>
+            <li style="padding-top:12px;">
+                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/EditalPPPErrata.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web-banner-EDITAL-SEMULSP-PPP.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/2edCartilhaLeideAcesso.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/Banners/web_banner-cartilha-lei-de-acesso-178x75.jpg" width="178" border="0"></a>                <br /><a href="http://www2.manaus.am.gov.br/portal/secretarias/semcom/PDF/FichadeInscricaoEstacionamentoManaustrans.pdf" target="_blank"><img src="http://www2.manaus.am.gov.br/portal/secretarias/semcom/web_banner-estacionamento-especial-178x75.jpg" width="178" border="0"></a>            </li>
+            </ul>
+        </div>
+  </div>
+    
+  </div>
+  
+  
+  
+<script>
+jQuery("#slideshow2").bjqs({
+    'height' : 275,
+    'width' : 188,
+    'rotationSpeed' : 3000,
+    'animationDuration' : 900,
+    'showMarkers' : false,
+    'centerControls' :true,
+    'showControls' : false,
+    'nextText': '',
+    'prevText': '',
+    'useCaptions' : false,
+    'keyboardNav' : false
+});
+</script>
+                  </div><!-- #primary -->
+
+                
+                
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+          <div id="rodape">
+            <div id="rodapeEndereco">
+                <p>Av. Brasil, N� 2971 � Compensa - <a class="ias/semcom/web_banner-estacionamento-especial-178x75.jpg" width="178" border="0"></a>            </li>
+            </ul>
+        </div>
+  </div>
+    
+  </div>
+  
+  
+  
+<script>
+jQuery("#slideshow2").bjqs({
+    'height' : 275,
+    'width' : 188,
+    'rotationSpeed' : 3000,
+    'animationDuration' : 900,
+    'showMarkers' : false,
+    'centerControls' :true,
+    'showControls' : false,
+    'nextText': '',
+    'prevText': '',
+    'useCaptions' : false,
+    'keyboardNav' : false
+});
+</script>
+                  </div><!-- #primary -->
+
+ linkMapa" href=""/>Mapa</a></p> 
+                <p>Cep � 69036-110</p>
+                <p>Telefone: 3625-5700/5739</p>
+                <p>Fax: 3625-5683</p>
+                <!--
+                                        
+
+
+                                                                            <div style="padding: 5px 0 5px 10px; line-height: 170%;">Passa Fácil: (92) 2123-0700<br />
+Infantojuvenil: 0800 092 1407<br />
+Meio Ambiente: 0800 092 2000<br />
+Defesa Civil: 199<br />
+ManausPrev: (92) 3186-8000<br />
+Manaustrans: 0800 092 1199<br />
+<a href="http://www.manaus.am.gov.br/telefones/">Mais telefones</a>
+</div>
+
+
+
+
+                                            
+                    -->             
+            </div>
+
+            <div id="rodapeSecretaria">
+                <p>&copy; 2012 -
